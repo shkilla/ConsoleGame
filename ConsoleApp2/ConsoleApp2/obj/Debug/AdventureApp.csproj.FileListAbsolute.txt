@@ -1,0 +1,7 @@
+C:\Users\EzPc\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\EzPc\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\EzPc\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\EzPc\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\AdventureApp.csprojAssemblyReference.cache
+C:\Users\EzPc\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\AdventureApp.csproj.CoreCompileInputs.cache
+C:\Users\EzPc\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\EzPc\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
